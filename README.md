@@ -19,6 +19,7 @@ To maximize efficiency and model robustness, I engineered a no-code ML pipeline 
 * **Modeling Approach:** The pipeline automated feature engineering, handling missing values in geographical data, and selecting the best-performing algorithm (typically Random Forest or Gradient Boosting in similar AutoML configurations).
 * **Evaluation Metrics:** The primary metric for success was **Classification Accuracy**. The model successfully surpassed the project benchmark, delivering a **predictive accuracy of over 90%**. This high level of precision ensures that the model can be used as a reliable decision-support tool.
 <img width="537" height="318" alt="Screen Shot 2026-04-15 at 16 49 22" src="https://github.com/user-attachments/assets/45d8feed-8132-49cf-a002-ac4d59cd1b63" />
+
 <img width="999" height="222" alt="Screen Shot 2026-04-19 at 18 52 15" src="https://github.com/user-attachments/assets/1ff92d5e-f3f6-4fbe-bd70-e39a52ac53ac" />
 
 ### **Conclusion**
