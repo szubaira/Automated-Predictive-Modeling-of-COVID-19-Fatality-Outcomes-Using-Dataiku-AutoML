@@ -1,0 +1,183 @@
+Country_Name,Continent_Name,Continent_Code
+Afghanistan,Asia,AS
+Albania,Europe,EU
+Algeria,Africa,AF
+Andorra,Europe,EU
+Angola,Africa,AF
+Antigua and Barbuda,NA,NA
+Argentina,South America,SA
+Armenia,Europe,EU
+Australia,Oceania,OC
+Austria,Europe,EU
+Azerbaijan,Europe,EU
+Bahamas,North America,NA
+Bahrain,Asia,AS
+Bangladesh,Asia,AS
+Barbados,North America,NA
+Belarus,Europe,EU
+Belgium,Europe,EU
+Belize,North America,NA
+Benin,Africa,AF
+Bhutan,Asia,AS
+Bolivia,South America,SA
+Bosnia and Herzegovina,Europe,EU
+Botswana,Africa,AF
+Brazil,South America,SA
+Brunei,Asia,AS
+Bulgaria,Europe,EU
+Burkina Faso,Africa,AF
+Burma,NA,NA
+Burundi,Africa,AF
+Cabo Verde,NA,NA
+Cambodia,Missing Info,AS
+Cameroon,Africa,AF
+Canada,North America,NA
+Central African Republic,Africa,AF
+Chad,Africa,AF
+Chile,South America,SA
+China,Asia,AS
+Colombia,South America,SA
+Congo (Brazzaville),Africa,AF
+Congo (Kinshasa),Africa,AF
+Costa Rica,North America,NA
+Cote d'Ivoire,Africa,AF
+Croatia,Europe,EU
+Cuba,North America,NA
+Cyprus,Europe,EU
+Czechia,Europe,EU
+Denmark,Europe,EU
+Djibouti,Africa,AF
+Dominica,North America,NA
+Dominican Republic,North America,NA
+Ecuador,South America,SA
+Egypt,Africa,AF
+El Salvador,North America,NA
+Equatorial Guinea,Africa,AF
+Eritrea,Africa,AF
+Estonia,Europe,EU
+Eswatini,NA,NA
+Ethiopia,Missing Info,AF
+Fiji,South America,SA
+Finland,Europe,EU
+France,Europe,EU
+Gabon,Africa,AF
+Gambia,Africa,AF
+Georgia,Europe,EU
+Germany,Europe,EU
+Ghana,Africa,AF
+Greece,Europe,EU
+Grenada,North America,NA
+Guatemala,North America,NA
+Guinea,Africa,AF
+Guinea-Bissau,Africa,AF
+Guyana,South America,SA
+Haiti,North America,NA
+Holy See,Europe,EU
+Honduras,North America,NA
+Hungary,Europe,EU
+Iceland,Europe,EU
+India,Asia,AS
+Indonesia,Asia,AS
+Iran,Asia,AS
+Iraq,Asia,AS
+Ireland,Europe,EU
+Israel,Asia,AS
+Italy,Europe,EU
+Jamaica,North America,NA
+Japan,Asia,AS
+Jordan,Asia,AS
+Kazakhstan,Europe,EU
+Kenya,Africa,AF
+"Korea, South",Asia,AS
+Kuwait,Asia,AS
+Kyrgyzstan,Asia,AS
+Laos,Asia,AS
+Latvia,Europe,EU
+Lebanon,Asia,AS
+Liberia,Africa,AF
+Libya,Africa,AF
+Liechtenstein,Europe,EU
+Lithuania,Europe,EU
+Luxembourg,Europe,EU
+Madagascar,Africa,AF
+Malawi,Africa,AF
+Malaysia,Asia,AS
+Maldives,Asia,AS
+Mali,Africa,AF
+Malta,Europe,EU
+Mauritania,Africa,AF
+Mauritius,Africa,AF
+Mexico,North America,NA
+Moldova,Europe,EU
+Monaco,Europe,EU
+Mongolia,Asia,AS
+Montenegro,Europe,EU
+Morocco,Africa,AF
+Mozambique,Africa,AF
+Namibia,Africa,AF
+Nepal,Asia,AS
+Netherlands,Europe,EU
+New Zealand,Oceania,OC
+Nicaragua,North America,NA
+Niger,Africa,AF
+Nigeria,Africa,AF
+North Macedonia,NA,NA
+Norway,Europe,EU
+Oman,Asia,AS
+Pakistan,Asia,AS
+Panama,North America,NA
+Papua New Guinea,Oceania,OC
+Paraguay,South America,SA
+Peru,South America,SA
+Philippines,Asia,AS
+Poland,Europe,EU
+Portugal,Europe,EU
+Qatar,Asia,AS
+Romania,Europe,EU
+Russia,Asia,AS
+Rwanda,Africa,AF
+Saint Kitts and Nevis,North America,NA
+Saint Lucia,North America,NA
+Saint Vincent and the Grenadines,North America,NA
+San Marino,Europe,EU
+Sao Tome and Principe,Africa,AF
+Saudi Arabia,Asia,AS
+Senegal,Africa,AF
+Serbia,Europe,EU
+Seychelles,Africa,AF
+Sierra Leone,Africa,AF
+Singapore,Asia,AS
+Slovakia,Europe,EU
+Slovenia,Europe,EU
+Somalia,Africa,AF
+South Africa,Africa,AF
+South Sudan,Africa,AF
+Spain,Europe,EU
+Sri Lanka,Asia,AS
+Sudan,Africa,AF
+Suriname,South America,SA
+Sweden,Europe,EU
+Switzerland,Europe,EU
+Syria,Asia,AS
+Taiwan,Asia,AS
+Tanzania,Africa,AF
+Thailand,Asia,AS
+Timor-Leste,Asia,AS
+Togo,Africa,AF
+Trinidad and Tobago,North America,NA
+Tunisia,Africa,AF
+Turkey,Europe,EU
+Uganda,Africa,AF
+Ukraine,Europe,EU
+United Arab Emirates,Asia,AS
+United Kingdom,Europe,EU
+US,North America,NA
+Uruguay,South America,SA
+Uzbekistan,NA,NA
+Venezuela,South America,SA
+Vietnam,Asia,AS
+West Bank and Gaza,NA,NA
+Western Sahara,Africa,AF
+Yemen,Asia,AS
+Zambia,Africa,AF
+Zimbabwe,Africa,AF
