@@ -18,13 +18,11 @@ The analysis utilized a comprehensive dataset encompassing global COVID-19 metri
 To maximize efficiency and model robustness, I engineered a no-code ML pipeline using **Dataiku AutoML**. This approach allowed for the rapid benchmarking of multiple algorithms to identify the optimal predictor for fatality outcomes.
 * **Modeling Approach:** The pipeline automated feature engineering, handling missing values in geographical data, and selecting the best-performing algorithm (typically Random Forest or Gradient Boosting in similar AutoML configurations).
 * **Evaluation Metrics:** The primary metric for success was **Classification Accuracy**. The model successfully surpassed the project benchmark, delivering a **predictive accuracy of over 90%**. This high level of precision ensures that the model can be used as a reliable decision-support tool.
-<img width="537" height="318" alt="Screen Shot 2026-04-15 at 16 49 22" src="https://github.com/user-attachments/assets/45d8feed-8132-49cf-a002-ac4d59cd1b63" />
-
-<img width="999" height="222" alt="Screen Shot 2026-04-19 at 18 52 15" src="https://github.com/user-attachments/assets/1ff92d5e-f3f6-4fbe-bd70-e39a52ac53ac" />
+<img width="537" height="318" alt="Screen Shot 2026-04-15 at 16 49 22" src="https://github.com/user-attachments/assets/45d8feed-8132-49cf-a002-ac4d59cd1b63" /> <img width="999" height="222" alt="Screen Shot 2026-04-19 at 18 52 15" src="https://github.com/user-attachments/assets/1ff92d5e-f3f6-4fbe-bd70-e39a52ac53ac" />
 
 ### **Conclusion**
 The project demonstrates that high-performance machine learning solutions can be deployed rapidly without manual coding, provided there is a structured data pipeline. Based on the model results, I recommend that health organizations prioritize logistical support for regions where predicted fatality thresholds are breached, even if current confirmed counts appear stable.
 
 **Future Steps:**
 * I plan to incorporate time-series data into the pipeline to transition from snapshot predictions to dynamic trend forecasting.
-* Integrating demographic data (such as median age or healthcare infrastructure indices) could further refine the model's sensitivity to regional variations in fatality rates.<img width="537" height="318" alt="Screen Shot 2026-04-15 at 16 49 22" src="https://github.com/user-attachments/assets/8c193cd2-4a2f-4fe8-834c-034a64953ed9" />
+* Integrating demographic data (such as median age or healthcare infrastructure indices) could further refine the model's sensitivity to regional variations in fatality rates.<img 
